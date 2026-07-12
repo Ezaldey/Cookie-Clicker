@@ -99,7 +99,6 @@ Possible updates:
 - Add more upgrades
 - Add achievements
 - Improve save system
-- Create an executable version
 
 ## 📜 License
 
